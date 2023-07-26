@@ -1,0 +1,29 @@
+/*@import 'App.css';*/
+
+.page-container.MusicBio {
+  background-image: url('C:\Users\Samuel\Downloads\PW\website\src\photo_2023-07-16_14-49-22.jpg');
+}
+.small{
+  border-radius: 50%;
+  width: 350px;
+  height: auto;
+}
+
+.smaller{
+  border-radius: 50%;
+  width: 250px;
+  height: auto;
+}
+
+.video-container {
+  width: 100%; /* Adjust the width as needed */
+}
+
+.video-wrapper {
+  margin-right: 5px; /* Adjust spacing between videos */
+}
+
+.video-player {
+  width: 100%; /* Set the video width to 100% to fill the video wrapper */
+  height: auto; /* The height will scale proportionally based on the video's aspect ratio */
+}

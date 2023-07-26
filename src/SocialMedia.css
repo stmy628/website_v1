@@ -1,0 +1,17 @@
+.social-media {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.social-media a {
+  display: inline-block;
+  margin: 0 10px;
+  color: white; /* Replace with your desired color */
+  font-size: 24px;
+}
+
+.social-media a:hover {
+  color: #bf00ff; /* Replace with your desired hover color */
+}
